@@ -1,51 +1,31 @@
-ID Number,Race,Ethnic Group,Gender,Age (yrs)- At time of diagnosis,Complimentation Group,Ultrasound abnormalities,TI-RADS Score 
-XP86BE,White,Not Hispanic or Latino,Female,64,C,NO,#N/A
-XP451AN,White,Not Hispanic or Latino,Female,27,N/A,YES,"4
-4
-4
-"
-XP576BE,Asian,Not Hispanic or Latino,Male,22,C,YES,"2
-2
-3
-4"
-XP415BE,White,Not Hispanic or Latino,Female,25,C,YES,"4
-5
-5"
-XP198,White,Not Hispanic or Latino,Female,20,C,YES,"3
-4
-"
-XP338BE,White,Not Hispanic or Latino,Male,15,C,YES,"4
-2"
-XP516BE,White,Not Hispanic or Latino,Female,49,N/A,YES,"4
-4"
-XP31BE,White,Not Hispanic or Latino,Male,72,V,YES,2
-XP63DC,White,Hispanic or Latino,Female,25,C,YES,"2
-3"
-XP510BE,White,Not Hispanic or Latino,Female,30,C,NO,#N/A
-XP349BE,White,Not Hispanic or Latino,Female,16,C,YES,4
-XP224BE,White,Not Hispanic or Latino,Female,43,V,YES,4
-XP579BE,Unknown Race,Hispanic or Latino,Female,19,C,YES,TR1
+ID Number,Race,Ethnic Group,Gender,Age (yrs)- At time of diagnosis,Complimentation Group,Ultrasound abnormalities,
+XP86BE,White,Not Hispanic or Latino,Female,64,C,NO,
+XP451AN,White,Not Hispanic or Latino,Female,27,N/A,YES,
+XP576BE,Asian,Not Hispanic or Latino,Male,22,C,YES,
+XP415BE,White,Not Hispanic or Latino,Female,25,C,YES,
+XP198,White,Not Hispanic or Latino,Female,20,C,YES,
+XP338BE,White,Not Hispanic or Latino,Male,15,C,YES,
+XP516BE,White,Not Hispanic or Latino,Female,49,N/A,YES,
+XP31BE,White,Not Hispanic or Latino,Male,72,V,YES,
+XP63DC,White,Hispanic or Latino,Female,25,C,YES,
+XP510BE,White,Not Hispanic or Latino,Female,30,C,NO,
+XP349BE,White,Not Hispanic or Latino,Female,16,C,YES,
+XP224BE,White,Not Hispanic or Latino,Female,43,V,YES,
+XP579BE,Unknown Race,Hispanic or Latino,Female,19,C,YES,
 "XP330BE
-",Asian,Not Hispanic or Latino,Male,22,C,YES,"TR4
-TR4
-TR4
-TR4
-"
-XP580BE,Black/African American,Hispanic or Latino,Female,17,C,YES,"TR2
-TR2"
-XP581BE,Black/African American,Hispanic or Latino,Male,12,C,YES,TR4
-XP572BE,White,Not Hispanic or Latino,Female,33,C,YES,"TR3
-TR2"
-XP517BE,White,Not Hispanic or Latino,Female,35,C,NO,#N/A
-XP105BE,White,Not Hispanic or Latino,Female,37,C,YES,"4
-2"
-XP511BE,White,Not Hispanic or Latino,Female,27,C,YES,3
-XP358BE,White,Not Hispanic or Latino,Female,12,C,NO,#N/A
-XP586BE,White,Not Hispanic or Latino,Male,9,D,NO,#N/A
-XP442BE,Multiracial,Hispanic or Latino,Female,17,C,NO,#N/A
-XP443BE,White,Not Hispanic or Latino,Female,36,C,NO,#N/A
-XP419BE,Black/African American,Not Hispanic or Latino,Female,11,C,NO,#N/A
-XP591BE,Multiracial,Hispanic or Latino,Female,12,N/A,NO,#N/A
-XP84BE,White,Not Hispanic or Latino,Female,20,D,NO,#N/A
-XP451BE,White,Not Hispanic or Latino,Male,39,A,NO,#N/A
-XP337BE,Black/African American,Not Hispanic or Latino,Female,26,A,NO,#N/A
+",Asian,Not Hispanic or Latino,Male,22,C,YES,
+XP580BE,Black/African American,Hispanic or Latino,Female,17,C,YES,
+XP581BE,Black/African American,Hispanic or Latino,Male,12,C,YES,
+XP572BE,White,Not Hispanic or Latino,Female,33,C,YES,
+XP517BE,White,Not Hispanic or Latino,Female,35,C,NO,
+XP105BE,White,Not Hispanic or Latino,Female,37,C,YES,
+XP511BE,White,Not Hispanic or Latino,Female,27,C,YES,
+XP358BE,White,Not Hispanic or Latino,Female,12,C,NO,
+XP586BE,White,Not Hispanic or Latino,Male,9,D,NO,
+XP442BE,Multiracial,Hispanic or Latino,Female,17,C,NO,
+XP443BE,White,Not Hispanic or Latino,Female,36,C,NO,
+XP419BE,Black/African American,Not Hispanic or Latino,Female,11,C,NO,
+XP591BE,Multiracial,Hispanic or Latino,Female,12,N/A,NO,
+XP84BE,White,Not Hispanic or Latino,Female,20,D,NO,
+XP451BE,White,Not Hispanic or Latino,Male,39,A,NO,
+XP337BE,Black/African American,Not Hispanic or Latino,Female,26,A,NO,
